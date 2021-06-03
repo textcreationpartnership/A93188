@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and faithfull account of the late commotions in the valleys of Piedmont, within the dominions of the Duke of Savoy. With some reflections on Mr. Stouppe's collected papers touching the same businesse.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93188</idno><idno type="EEBO-CITATION">99866474</idno>
+  <idno type="VID">168265</idno>
+  <idno type="EEBO-PROQUEST">2240937654</idno>
+  
+            <idno type="STC">Wing S3546</idno>
+            <idno type="STC">Thomason E852_1</idno>
+            <idno type="PROQUEST">99866474</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866474e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168265)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E852[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and faithfull account of the late commotions in the valleys of Piedmont, within the dominions of the Duke of Savoy. With some reflections on Mr. Stouppe's collected papers touching the same businesse.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.P. and G.L.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.3: Andrew Castaldus Comrius.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotations on Thomason copy: (below Reflections..) "Written by a papist"; "August 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Louis --  XIV, --  King of France, 1638-1715 --  Early works to 1800.</term>
+               <term type="topical_term">Protestants --  France --  Savoy --  Early works to 1800.</term>
+               <term type="topical_term">Protestantism --  History --  Early works to 1800.</term>
+               <term type="topical_term">Waldenses --  Early works to 1800.</term>
+               <term type="geographic_name">Savoy (France and Italy) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168265:1"/>
+            <p>A short and faithfull ACCOUNT OF THE LATE COMMOTIONS IN THE Valleys of Piedmont, Within the Dominions of the Duke of Savoy.</p>
+            <p>VVith some Reflections on Mr. <hi>Stouppe's</hi> collected Papers touching the same businesse.</p>
+            <p>Printed for <hi>W. P.</hi> and <hi>G. L.</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168265:2"/>
+            <pb n="3" facs="tcp:168265:2"/>
+            <head>A true Relation of the late Commotions in the Valleys of <hi>Piedmont, &amp;c.</hi>
+            </head>
+            <p>THe <hi>Vaudois</hi> or <hi>Woldenses</hi> took name from one <hi>Peter Wal<g ref="char:EOLhyphen"/>dus</hi> a Citizen of <hi>Lyons</hi> in <hi>France,</hi> who lived in the tweifth Age, his opinions were for the most part negatives to the Church of <hi>Rome;</hi> he held Episcopacy. Diabolical, and Ordination impertinent, himself, being a meer Lay-man, and only a gifted Merchant, preach't and undertook all the other offices, belonging to the new Church himself had gathered, he sold all his own estate, and lived o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> voluntary alms, teaching, it was un<g ref="char:EOLhyphen"/>lawfull for Church-men to have any thing of their own; he held all Festivalls, as <hi>Christmas, Easter, &amp;c.</hi> were Popish inventions and abominations to the Lord, and so were set Fasting daies: O<g ref="char:EOLhyphen"/>ther singularities he had, but I intend only to touch his Character, and proceed to the late passage in the Valleys of <hi>Piedmont.</hi>
+            </p>
+            <p>The Off-spring of this <hi>Waldus</hi> (who by degrees have in some points approacht to the way of <hi>Geneva</hi>) have for many yeares continued in the Valley of <hi>Angrogue, Rorata, Bobiane,</hi> and coun<g ref="char:EOLhyphen"/>try of <hi>Bonetti,</hi> within the Territories of the Duke of <hi>Savoy;</hi> and had absolute toleration of Religion, and free commerce granted them by <hi>Charles Emanuel,</hi> late Duke of <hi>Savoy,</hi> and <hi>Victorio Ame<g ref="char:EOLhyphen"/>deo</hi> his Successor; and the same was confirmed to them by Duke <hi>Charles Emanuel</hi> now Reigning, in the year 1649. But of late years, the said <hi>Waldenses,</hi> having much encroached upon the Dukes Catholique Dominions, and been so far from not enjoying the li<g ref="char:EOLhyphen"/>berty of their own Religion, that they began to deny the Papists a Liberty of Conscience among them, not permitting their Priests to say <hi>Masse,</hi> but used many revilings and mockeries towards their <hi>Masse,</hi> and religious people; as at <hi>La Tour,</hi> they dressed an Asse in a <hi>Monks</hi> habit: These, with other such like indiscretions, caused the Duke, with his Officers, to publish this Edict.</p>
+            <pb n="2" facs="tcp:168265:3"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Andrew Guastald <hi>Doctor in Law, Auditor to his Royall High<g ref="char:EOLhyphen"/>nesse, and generall Conservator of the Catholike Faith,</hi> ap<g ref="char:EOLhyphen"/>pointed to put in execution all Orders against the pre<g ref="char:EOLhyphen"/>tended reformed Religion in the Valleys of <hi>Lucerne, Perouse,</hi> and S. <hi>Martin,</hi> &amp;c.</head>
+                  <p>
+                     <hi>IN order to the power given us by his Highnesse, Letters dispatched to us in due form, signed</hi> Violetta, <hi>and sealed, bearing date the thirteenth instant, and in performance of the Instructions given us, as also at the instance of</hi> Mr. Bartholomew Guastaldus, <hi>in behalf of the Royall Exchequer; We ordain and command the chief Sergeant or Bailiff sworn to make command and injunction to all heads of Families, and to each particular of the pretended Reformed Religion, of what<g ref="char:EOLhyphen"/>soever estate, condition, and degree, no inhabitant <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>xcepted, possessing any goods in the Territories of</hi> Lucern, Lucernette, S. John, la Tour, Bobiane, Fenill, Campiglion, Bricheras, <hi>and</hi> S. Secondo, <hi>within three daies next after the publication hereof, to relinquish and abandon<g ref="char:EOLhyphen"/>with their families, the said places, and to transplant themselves into those places and limits, which by the good pleasure of his Royal High<g ref="char:EOLhyphen"/>ness are assigned unto them,</hi> viz. Bobiane, <hi>the Ʋalley of</hi> Angrogne, Rorata, <hi>and Country of</hi> Bonetti, <hi>under pain of life, and confiscation of such of their houses, possessions, and goods which are without the said li<g ref="char:EOLhyphen"/>mits, in case they cannot within twenty daies make proof before us, that they are Catholiques, or that they have sold their estates to some Catho<g ref="char:EOLhyphen"/>liques, his Royal Highness declaring, that it never was his, nor his Royal Predecessors intention, by any act done, or to be done, much less his will to inlarge their bounds, and that if any thing hath been done or published to the contrary, it was both against his own orders, or those of his Magistrates, and a meer usurpation against the intention of those Acts, as is manifest; and therefore the transgressors have un<g ref="char:EOLhyphen"/>dergone the penalties mentioned in his Declaration: Besides, his High<g ref="char:EOLhyphen"/>ness intends that in all and every of those places, where they are lo<g ref="char:EOLhyphen"/>vingly tolerated, the holy Sacrifice of the</hi> Masse <hi>be celebrated, prohi<g ref="char:EOLhyphen"/>biting all Subjects of the pretended reformed Religion, to give any mo<g ref="char:EOLhyphen"/>lestation in deeds or words, to the fathers Missionaries, and those that officiate under them, much less to disturb or divert any of the pretend<g ref="char:EOLhyphen"/>ed
+<pb n="3" facs="tcp:168265:3"/> reformed Religion, from becoming Catholiques, under pain of death, charging aend commanding each particular person of the pretended re<g ref="char:EOLhyphen"/>formed Religion, to see the forementioned injunctions invi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lably ob<g ref="char:EOLhyphen"/>served, as they will answer the contrary at their utmost perils, de<g ref="char:EOLhyphen"/>claring his intention to be, that the execution hereof be done, by posting or fixing Copies of these presents, which shall be of like force, as if they had been made, and intimated to each in particular.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Given at Lucerne, <date>
+                           <hi>the</hi> 25. <hi>of</hi> January, 1655.</date>
+                     </dateline>
+                     <signed>Andrew Castaldus Com<seg rend="sup">rius.</seg>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>In this <hi>Edict,</hi> twenty daies was allowed those <hi>Waldenses,</hi> who had encroached upon the Catholique Territories, either to become Catholikese, or to sell their estates, and to transplant themselves into the places formerly assigned, yet it was so far from being ob<g ref="char:EOLhyphen"/>served, that certain desperate persons among them, contrary to the expresse words of the Edict, fell in a rage upon two Priests at <hi>Fe<g ref="char:EOLhyphen"/>nil,</hi> in the lower Vale of <hi>Lucern,</hi> and slew them at the Altar, as they were saying <hi>Masse.</hi> This might justly incense the Duke, who forthwith sent certain Delegates to hear and examine the business, and punish the offenders according to Law. These Delegates were no sooner arrived, but they were furiously assaulted by tumultuous persons, and some of their Retinue slain, so that they returned <hi>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> infecta.</hi> Hereupon his Royall Highnesse dispatched other Dele<g ref="char:EOLhyphen"/>gates to the same purpose, guarded with a Troop of Horse; but these also were opposed by a considerable number of men in Arms, and in an encounter, much routed, and divers slain and taken pri<g ref="char:EOLhyphen"/>soners.</p>
+            <p>The <hi>Waldenses</hi> conceiving themselves now to have extreamly incensed their lawfull Prince, and that they could expect no fa<g ref="char:EOLhyphen"/>vour from him, took Arms generally, yet they pretended it was not against the Duke himself, but his Popish Councellors, that is, the <hi>Congregation for propagating the Faith,</hi> of which the chiefe were, the Arch bishop of <hi>Turin,</hi> the Dukes Confessor, the Abbot <hi>Del Monte,</hi> the Prior of <hi>Rorene,</hi> and others.</p>
+            <pb n="4" facs="tcp:168265:4"/>
+            <p>Within few daies these <hi>Waldenses</hi> (by the help of the Lords o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Bern</hi> and <hi>Zurick,</hi> whose aid they implored) were embodied many thousands strong, and had fortified many Towns, insomuch as the Duke began really to dispair of raising a force sufficient in his own Dominions to suppresse them; however he armed what Forces he could for present, which were commanded by <hi>Mar<g ref="char:EOLhyphen"/>quesse Pianess,</hi> and forthwith dispatcht an <hi>Env<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yè</hi> to the King of <hi>France,</hi> requesting his aid towards the suppression of certain re<g ref="char:EOLhyphen"/>bellious Subjects, who forthwith appointed Count <hi>Quinsey</hi> with an Army (wherein there was one Regiment of <hi>Irish</hi>) to joyne with the said Marquess <hi>Piaress,</hi> which being done accordingly, they marched towards the said <hi>Valley,</hi> where, in a set encounter, the <hi>Waldenses</hi> were totally routed, yet after that, several Townes and strong holds were, and some yet are, with much violence main<g ref="char:EOLhyphen"/>tain'd against the Dukes Army, and many confiderable persons slain, which inraged the Souldiers so much, as to commit some cru<g ref="char:EOLhyphen"/>elties in the heat of blood, without the Dukes Order, and has been the cause that many of those people, who could not content themselves in their own bounds, nor allow others that liberty they enjoyed themselves, nor obey their own lawfull Prince, are destroyed by the violence of an unnaturall War, and lost their E<g ref="char:EOLhyphen"/>states by the severity of Sequestration.</p>
+         </div>
+         <div type="text">
+            <head>Some Observations on <hi>Mr. Stouppes</hi> collected Papers, <hi>&amp;c.</hi>
+            </head>
+            <p>BUt because 'tis almost as easie to justifie as to accuse, if the par<g ref="char:EOLhyphen"/>ties bare word may passe for proof, and that no evidence is so sure and convincing, as that which is acknowledgeded by him that pleads for the cnntrary cause; I shall chuse some few Observati<g ref="char:EOLhyphen"/>ons out of Mr. <hi>Stouppes</hi> late printed <hi>Collection,</hi> by which most of the Allegations in defence of the Dukes proceedings are made good, and no man will undertake to excuse every action of the Souldiers.</p>
+            <p>The sum of the Edict was this, as Mr. <hi>Stouppe</hi> (and I think very faithfully) relates i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, pag. 7. <hi>That the Waldenses who inhabited those
+<pb n="5" facs="tcp:168265:4"/> valleyes, which were not contained in the former Instruments of Tole<g ref="char:EOLhyphen"/>ration, should within three dayes retire to the places where they were permitted</hi> (neighboring valleys, not any forraign Country) <hi>or within twenty dayes sell their goods to Catholikes, or themselves become Ca<g ref="char:EOLhyphen"/>tholikes.</hi>
+            </p>
+            <p n="1">1. That the <hi>Waldenses</hi> inlarged their Quarters, and introduced themselves and Religion beyond the limits of their Toleration, is no where deni'd by Mr. <hi>Stouppe,</hi> but rather, as to some of them, con<g ref="char:EOLhyphen"/>fest, pag. 18.</p>
+            <p n="2">2. Nor that the Dukes Edict was published against any, but such Incroachers: All Concessions of the Duke still expresly relating to their formerly granted Liberties, without extending them to new places.</p>
+            <p n="3">3. The Duke, permitting them the free exercise of their Reli<g ref="char:EOLhyphen"/>gion, thought it reasonable, that they should at least tolerate the exercise of his, and allow their Prince at least Liberty of Consci<g ref="char:EOLhyphen"/>ence in his own Dominions: This they denied. <hi>Stouppe</hi> pag. 13.</p>
+            <p n="4">4. The <hi>Waldenses</hi> were in arms, when the Marquesse <hi>Pianesse</hi> came against them, els how could <hi>they have kild most of his men by their couragious resistance? Stouppe,</hi> p. 31. But then (sayes <hi>Stouppe</hi>) the Marques<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e betaking himself to dissimulation, overcame and ruin'd them. What stratagems are lawfull for Princes Officers to use in order to the reducement of disobedient Subjects, I intend not to dispute; but it seems their opposition was so strong and dangerous, that they put the Marquesse to his wits; wherein yet if he dealt perfidiously, no honest man will defend him.</p>
+            <p n="5">5. These <hi>Waldenses</hi> (sayes <hi>Stouppe</hi> (pag. 21 &amp; 22.) <hi>struggled not against the Prince, but against the Congregation of propagating the faith,</hi> &amp;c. <hi>who covered their injustice under the name and authority of the most illu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rious Prince.</hi> 'Tis no new piece of wit to disobey the Prince, and yet pretend to do nothing but against his evill Coun<g ref="char:EOLhyphen"/>cillors. Howsoever it seems Mr. <hi>Stouppe</hi> and his Countrimen of the Mountains, think it lawfull to take arms against the supreme Magistrate, if the inferior ones misuse their Office.</p>
+            <p n="6">6. For their sufferings, I believe them far greater then they de<g ref="char:EOLhyphen"/>served, especially being a people whose rudenesse and ignorance might lay a faire claime to their Magistrates mercy; yet when I survey Mr. <hi>Stouppes</hi> particular accompt, I cannot find such a vast sum,
+<pb n="6" facs="tcp:168265:5"/> as his generall words import: And for the exiles, they were only banisht into their own country, and that no farther off then the next valley, with liberty too, either to sell their goods, or carry them with them.</p>
+            <p>And though in those <hi>collected Papers</hi> I easily finde (for I did but swiftly read them) two great exceptions; one, That they de<g ref="char:EOLhyphen"/>scribe the punishment, and not expresse the crime, a course that will condemn all the Tribunalls in the world of barbarousnesse, and even God himself of injustice. The other is, That there are many extravagant and indeed incredible exaggerations in relating the matter of fact; yet I shall willingly give Mr. <hi>Stouppe</hi> his just praise, because, me-thinks in the whole designe of his Book, he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trives still to excite his Readers to a resentment of charity, rather <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en of revenge, wherein he is far more manly and Christian too, than those, who cry out for a retaliation upon any Papists where<g ref="char:EOLhyphen"/>ever they meet them, not considering the innocent are not to be destroy'd with the guilty, if the peace of the State where they live permits a triall, that unruly proceeding being only tolerable where <hi>distinction</hi> is impossible.</p>
+            <p>After we have offer'd these few reflexions upon Mr. <hi>Stouppes</hi> col<g ref="char:EOLhyphen"/>lected papers, we must highly applaud the charity of relieving these poor distressed people, who though they might deserve some cha<g ref="char:EOLhyphen"/>stisement, yet their very being reduc'd to poverty, gives them ti<g ref="char:EOLhyphen"/>tle enough to our pity, onely I could wish that Subjects would proceed very warily in representing the actions of Supreme Magi<g ref="char:EOLhyphen"/>strates, though of another Nation, and not strain to render them odious to the vulgar: It accustomes the people to think ill of Go<g ref="char:EOLhyphen"/>vernors in generall, and breeds in them a disposition to believe any wilde story against the Magistrate, without regard to his dig<g ref="char:EOLhyphen"/>nity; and when they have talk'd saucily a while against the Go<g ref="char:EOLhyphen"/>vernours of their Neighbour Countryes, they are in a very hope<g ref="char:EOLhyphen"/>full readiness, upon the first occasion, to think, and speak, and act as much against their own.</p>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
